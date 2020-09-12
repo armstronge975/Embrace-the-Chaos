@@ -23,7 +23,7 @@ For this workshop, follow the below steps. Write your answers to any questions i
 
 1. What is a merge conflict and why does it happen?
 
-2. What are the 2 sets of Git commands we've learned to setup a repo for local development?
+2. What are the 2 sets of Git commands we've learned to setup a repo for local development? When is it best to use each?
 
 3. Which Git command(s) are needed to create a new branch?
 
