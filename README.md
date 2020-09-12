@@ -1,5 +1,5 @@
 # Embrace-the-Chaos
-A repo to practice branching and merging across multiple people (thus the chaos) during our class workshop.
+A repo for the additional Git workshop after class on 9/12/20. The objective is to practice branching and merging changes from multiple people (thus the chaos) during our workshop.
 
 ## Instructions
 
