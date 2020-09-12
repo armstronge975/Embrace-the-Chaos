@@ -11,7 +11,19 @@ For this workshop, follow the below steps. Write your answers to any questions i
 
 3. Write anything you want in your favorite peice of GitHub Markdown below (e.g. images, tables, emoji, etc.)
 
+
 jesse :smiley:
+
+
+Shawanda: nerd_face:
+
+
+Shelby: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Tristan :Emily:
+Emily: :smiley:
+
+
+
 
 
 4. Add, commit and push your Readme file to your branch.
