@@ -11,8 +11,10 @@ For this workshop, follow the below steps. Write your answers to any questions i
 
 3. Write anything you want in your favorite peice of GitHub Markdown below (e.g. images, tables, emoji, etc.)
 
-Hey Everyone is PBJ TIME!!!!
 
+Hey Everyone is PBJ TIME!!!!
+Tristan :Emily:
+Emily: :smiley:
 
 4. Add, commit and push your Readme file to your branch.
 
