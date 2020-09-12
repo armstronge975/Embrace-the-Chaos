@@ -13,10 +13,25 @@ For this workshop, follow the below steps. Write your answers to any questions i
 
 
 
+
 Hey Everyone is PBJ TIME!!!!
+
+jesse :smiley:
+
+
+Shawanda: nerd_face:
+
+
+
 Shelby: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Tristan :Emily:
 Emily: :smiley:
+
+
+
+
+
+
 
 
 4. Add, commit and push your Readme file to your branch.
