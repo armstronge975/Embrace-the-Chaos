@@ -11,6 +11,8 @@ For this workshop, follow the below steps. Write your answers to any questions i
 
 3. Write anything you want in your favorite peice of GitHub Markdown below (e.g. images, tables, emoji, etc.)
 
+Shawanda: nerd_face:
+
 4. Add, commit and push your Readme file to your branch.
 
 5. Create a pull request to merge your branch to master. Give your pr a **label**.
